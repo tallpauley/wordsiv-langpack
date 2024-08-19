@@ -1,0 +1,10 @@
+{
+    "name": "en_wordcount_books",
+    "lang": "en",
+    "bicameral": "True",
+    "description": "Capitalization from UKACD, counts from Norvig top 1/3 million words",
+    "author": "Chris Pauley",
+    "author_email": "cmpauley@gmail.com",
+    "author_url": "https://github.com/tallpauley",
+    "license": "See UKACD and Norvig"
+}

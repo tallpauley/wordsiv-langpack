@@ -1,0 +1,11 @@
+[project]
+name = "wordsiv_langpack_tallpauley"
+version = "0.1.0"
+description = "Wordsiv language support for en, es, fa, ar"
+authors = [
+    {name = "Chris Pauley", email = "cmpauley@gmail.com"},
+    {name = "José Solé", email = "type@jmsole.cl"}
+]
+
+[project.entry-points."wordsiv.langpack"]
+wordsiv_langpack_tallpauley = "wordsiv_langpack_tallpauley"
